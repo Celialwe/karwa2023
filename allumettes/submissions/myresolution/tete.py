@@ -1,6 +1,2 @@
 n, k = list(map(int, input().split()))
-
-if n % (k + 1) == 0:
-    print("Aymeric")
-else:
-    print("Brieuc")
+print("Aymeric" if n % (k + 1) == 0 else "Brieuc")
