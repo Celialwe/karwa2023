@@ -12,3 +12,4 @@ solution_header.tex
 
 /horizoncomplexe/problem_statement/auto/
 *.DS_Store
+*.yaml
