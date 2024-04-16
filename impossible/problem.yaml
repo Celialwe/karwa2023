@@ -24,3 +24,5 @@ validator_flags: float_tolerance 0.0000011
 #     time_multiplier: 2
 # Warning for submissions within 50% of time limit
 #     time_safety_margin: 1.5
+# uuid added by BAPCtools
+uuid: 8ee7605a-96ff-89b5-34c8-705fe566ce89

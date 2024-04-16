@@ -1,4 +1,3 @@
-contest.*.pdf
 contest-web.*.pdf
 solutions.*.pdf
 solutions-web.*.pdf
@@ -10,6 +9,6 @@ solutions-web.*.pdf
 *.aux
 solution_footer.tex
 solution_header.tex
-problem.pdf
-solution.pdf
+
 /horizoncomplexe/problem_statement/auto/
+*.DS_Store

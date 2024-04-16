@@ -25,3 +25,5 @@ validation: default
 #     time_multiplier: 2
 # Warning for submissions within 50% of time limit
 #     time_safety_margin: 1.5
+# uuid added by BAPCtools
+uuid: 8ee7605a-488e-8eb5-1fe9-f9b26af680eb
